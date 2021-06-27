@@ -7,9 +7,9 @@ export default makeStyles({
     justifyContent: 'space-between',
     alignItems: 'center',
     width: '100%',
-    height: '45vh',
+    height: '55vh',
     padding: '10%',
-    borderRadius: 10,
+    borderRadius: 40,
     color: 'white',
   },
   infoCard: {

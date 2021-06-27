@@ -4,8 +4,17 @@
 
 body {
     margin: 0;
-    background-color: whitesmoke;
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
 }
+
 
 * {
     box-sizing: border-box;

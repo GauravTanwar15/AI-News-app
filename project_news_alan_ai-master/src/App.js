@@ -58,10 +58,10 @@ const App = () => {
       {!newsArticles.length ? (
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
-            Created by
-            <a className={classes.link} href="https://www.linkedin.com/in/gaurav1597/"> Gaurav Tanwar</a><br />
+           <b>Created By</b>-
+            <a className={classes.link} href="https://www.linkedin.com/in/gaurav1597/" target="_blank">Gaurav Tanwar</a> with <a className={classes.link} href="https://alan.app/" target="_blank">ALAN AI</a><br />
              
-            <a className={classes.link} href="https://github.com/GauravTanwar15"> Github</a>
+            <a className={classes.link} href="https://github.com/GauravTanwar15" target="_blank"> Github</a>
           </Typography>
         </div>
       ) : null}
