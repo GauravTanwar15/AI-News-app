@@ -2,10 +2,8 @@
 
 https://audionews.netlify.app/
 
-
-![2021-09-08](https://user-images.githubusercontent.com/76563215/132529615-276f854c-808c-4c77-b992-d78ff373d687.png)
-
-![2021-09-08 (1)](https://user-images.githubusercontent.com/76563215/132529685-79c9d679-b26e-427c-b694-7cde7e89587d.png)
+![Uploading 2021-09-08.png…]()
+![2021-09-08 (1)](https://user-images.githubusercontent.com/76563215/132530200-d8999872-9505-49ae-9d46-62a3228f0111.png)
 
 
 
